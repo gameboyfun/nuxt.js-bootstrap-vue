@@ -1,0 +1,47 @@
+{
+  "common": {
+    "view_all": "View all",
+    "thai_language": "Thai",
+    "th": "TH",
+    "english_language": "English",
+    "en": "EN",
+    "home": "Home",
+    "ok": "OK",
+    "cancel": "Cancel",
+    "save": "Save",
+    "confirm": "Confirm",
+    "delete": "Delete",
+    "back": "Back",
+    "unknown_error_pls_try_again": "Some error occur. Please try again later.",
+    "dismiss": "Dismiss",
+    "edit": "Edit",
+    "cart": "Cart",
+    "optional": "Optional",
+    "menu": "Menu",
+    "profile": "Profile",
+    "logout": "Logout",
+    "search": "Search",
+    "error": "Error",
+    "no_data": "No Data",
+    "active": "Active",
+    "inactive": "Inactive",
+    "loading": "Loading...",
+    "next": "Next",
+    "forget_password": "Forget Password?",
+    "import_success": "Import Success",
+    "upload_image": "Upload Image"
+  },
+  "tools": {
+    "view": "View Detail",
+    "active": "Active",
+    "inactive": "Inactive",
+    "edit": "Edit",
+    "delete": "Delete",
+    "upload": "Upload",
+    "picked_up": "Picked up"
+  },
+  "login": {
+    "error_role": "You don't have permission to access this page",
+    "login_error": "Please enter a valid email and password."
+  }
+}
